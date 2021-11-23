@@ -1,4 +1,5 @@
 # Eletronic Voting Machine
+[Test here](https://heronoa.github.io/browser_instruments/)
 ### Features:
 * DOM Manipulation;
 * Sound files manipulations ;
@@ -6,7 +7,7 @@
 
 ## Main Screen the machine is displayed on screen and all changes happens in the machine's screen:
 
-![alt Intruments in the browser](https://github.com/heronoa/browser_instruments/blob/master/body.jpg?raw=true)
+![alt Intruments in the browser](https://github.com/heronoa/browser_instruments/blob/master/images/body.jpg?raw=true)
 
 ### Future Features: 
 * Background images of the current instrument that changes whith the instrument;
