@@ -1,4 +1,4 @@
-# Eletronic Voting Machine
+# Browser Instruments
 [Test here](https://heronoa.github.io/browser_instruments/)
 ### Features:
 * DOM Manipulation;
