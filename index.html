@@ -8,9 +8,10 @@
     <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
+    <h1>You are playing</h1>
     <div class="instruments">
-        <h1 folder="drum-kit" onclick="changeInstrument( this.getAttribute('folder') ) " >Drum Kit</h1>
-        <h1 folder="piano" onclick="changeInstrument( this.getAttribute('folder') ) " >Piano</h1>
+        <h1 class="instrument playing" folder="drum-kit" onclick="changeInstrument( this.getAttribute('folder') ) " >Drum Kit</h1>
+        <h1 class="instrument" folder="piano" onclick="changeInstrument( this.getAttribute('folder') ) " >Piano</h1>
     </div>
     
 

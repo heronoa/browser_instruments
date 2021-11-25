@@ -16,6 +16,12 @@ body {
 .instruments {
     display: flex;
 }
+.instrument {
+    padding: 0 20px;
+}
+.instrument.playing {
+    color: #FF0;
+}
 h1 {
     color: #FFF;
     margin-bottom: 20px;
